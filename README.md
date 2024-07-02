@@ -70,7 +70,7 @@ Then learn the CoT reasoning capability:
 python run.py --from_pretrained google/t5-v1_1-base --dataset svamp_tree1 --model_type task_prefix_tree1 --label_type llm --llm gpt-3.5-turbo --alpha 0.5 --batch_size 16 --num_train_epochs 80 --num_train_branches 5 --lr 5e-5 --max_input_length 1024 --run 0 --continue_train
 ```
 
-The above commands are for using pseudo-labels. To use the dataset's human-annotated labels, simply change `--label_type` to `gt`.
+The above commands are for using pseudo-labels. To use the dataset's human-annotated labels, simply change `--label_type` from `llm` to `gt`.
 
 #### Note
 
