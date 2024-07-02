@@ -1,0 +1,2 @@
+{"input":"Paige was helping her mom plant flowers and together they planted some seeds. They put 10 seeds in each flower bed. If there are 45 flowerbeds\nHow many seeds did they plant?","label":"( 10.0 * 45.0 )"}
+{"input":"Jack received 3 emails in the afternoon, 6 emails in the morning and some more in the evening. If he received a total of 10 emails in the day\nHow many emails did jack receive in the evening?","label":"( 10.0 - ( 6.0 + 3.0 ) )"}

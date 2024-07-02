@@ -1,5 +1,5 @@
 # Mind-s-Mirror-Distilling-LLM
-Code for [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/abs/2311.09214), NAACL 2024
+Code for [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://aclanthology.org/2024.naacl-long.376), NAACL 2024
 
 ## Environment Setup
 - Please follow these steps to create a virtual environment, replacing `your_env_name` with the name of the environment you wish to use.
@@ -13,18 +13,20 @@ conda install -y pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatool
 ## Command Usages
 #### Args usages
 - `--from_pretrained`: `google/t5-v1_1-small`, `google/t5-v1_1-base`, `google/t5-v1_1-large`
-- `--dataset`: `anli1`, `cqa`, `svamp`
-- `--label_type`:
-  - `--label_type gt`: Use GT label for training
-  - `--label_type llm`: Use LLM predicted label for training
-- `--alpha`: Task weight for multi-task training. Loss = alpha * label_prediction_loss + (1 - alpha) * rationale_generation_loss. Suggested usage: alpha = 0.5
-- `--batch_size`: Batch size
-- `--max_input_length`: Maximum input length
-- `--run`: Random seed to use
+- `--dataset`: Three datasets: `anli1`, `cqa`, `svamp`. To comply with OpenAI's policies and open-source licenses, we include only sample data examples of the svamp dataset in this repository. Other datasets follow the same format. Data in this format can be obtained from the OpenAI API using the [Tree of Thoughts (ToT)](https://github.com/princeton-nlp/tree-of-thought-llm) method.
+  - `svamp_tree1`: Data for training the CoT reasoning capability
+  - `svamp_tree2`: Data for training the self-evaluation capability
 - `--model_type`:
   - `standard`: Standard finetuning (`--label_type gt`) or distillation (`--label_type llm`)
   - `task_prefix_tree1`: Training the CoT reasoning capability
   - `task_prefix_tree2`: Train the self-evaluation capability
+- `--label_type`:
+  - `--label_type gt`: Use GT label for training
+  - `--label_type llm`: Use LLM predicted label for training
+- `--alpha`: Task weight for multi-task training. Loss = alpha * label_prediction_loss + (1 - alpha) * rationale_generation_loss. Suggested value: `0.5`
+- `--batch_size`: Batch size
+- `--max_input_length`: Maximum input length
+- `--run`: Random seed to use
 - `--prompt`: Control whether to use the prompt or not. No need to use by default.
 - `--num_train_branches`: The number of CoTs used for each data sample
 - `--num_train_epochs`: The number of training epochs

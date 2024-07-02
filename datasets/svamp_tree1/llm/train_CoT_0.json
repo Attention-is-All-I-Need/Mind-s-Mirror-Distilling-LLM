@@ -1,0 +1,150 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "\"input\":\"Luke scored 84 points after playing 2 rounds of a trivia game. If he gained the same number of points each round\\nHow many points did he score per round?\"\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Luke scored 84 points after playing 2 rounds of a trivia game. Since he gained the same number of points each round, we can divide the total points by the number of rounds to find the points per round. The equation is 84 / 2. The answer is (84 / 2).",
+                    "Luke scored 84 points after playing 2 rounds of a trivia game. Since he gained the same number of points each round, we can divide the total points by the number of rounds to find out how many points he scored per round. Therefore, the equation is 84 / 2. \n\nThe answer is (84 / 2).",
+                    "Luke scored 84 points after playing 2 rounds of a trivia game. Since he gained the same number of points each round, the number of points he scored per round is 84 / 2 = 42. The answer is (84 / 2).",
+                    "Luke scored 84 points after playing 2 rounds of a trivia game. He gained the same number of points each round. So, he scored 84 / 2 = 42 points per round. The answer is (84 / 2).",
+                    "Luke scored 84 points after playing 2 rounds of a trivia game. He gained the same number of points each round. So, he scored 84 / 2 = 42 points per round. The answer is (84 / 2)."
+                ],
+                "value_outputs_list": [
+                    [
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly states that since he gained the same number of points each round, we can divide the total points by the number of rounds to find the points per round. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game and that he gained the same number of points each round. Then, it correctly calculates the points per round by dividing the total points (84) by the number of rounds (2), resulting in 84 / 2 = 42 points per round. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game and that he gained the same number of points each round. It also correctly calculates the points per round by dividing the total points (84) by the number of rounds (2), resulting in 84 / 2 = 42 points per round. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game and that he gained the same number of points each round. It then correctly calculates the points per round by dividing the total points by the number of rounds as 84 / 2 = 42. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly identifies that since he gained the same number of points each round, we can divide the total points by the number of rounds to find the points per round. The equation 84 / 2 is accurate.\n\nEvaluation result: the given answer is correct."
+                    ],
+                    [
+                        "The given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game and that he gained the same number of points each round. It then correctly calculates the points scored per round by dividing the total points (84) by the number of rounds (2), resulting in 84 / 2 = 42 points per round. Finally, the answer represents this calculation in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "The given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly identifies that to find out how many points he scored per round, we need to divide the total points by the number of rounds. Therefore, the equation is 84 / 2. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "The given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game and that he gained the same number of points each round. It then correctly calculates the points scored per round by dividing the total points (84) by the number of rounds (2), resulting in 84 / 2 = 42 points per round. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "The given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly identifies that to find out how many points he scored per round, we need to divide the total points by the number of rounds. Therefore, the equation is 84 / 2. \n\nEvaluation result: the given answer is correct.",
+                        "The given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It correctly identifies that to find out how many points he scored per round, we need to divide the total points by the number of rounds. The equation 84 / 2 accurately represents this calculation.\n\nEvaluation result: the given answer is correct."
+                    ],
+                    [
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly calculates the number of points he scored per round as 84 / 2 = 42. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly calculates the number of points he scored per round as 84 / 2 = 42. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly calculates the number of points he scored per round as 84 / 2 = 42. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "The given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly calculates the number of points he scored per round as 84 / 2 = 42.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It correctly calculates the number of points he scored per round as 84 / 2 = 42. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct."
+                    ],
+                    [
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly calculates the number of points Luke scored per round as 84 / 2 = 42 points. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly calculates the number of points Luke scored per round as 84 / 2 = 42 points. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. Then, it correctly calculates the number of points he scored per round as 84 / 2 = 42 points. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly calculates the number of points he scored per round as 84 / 2 = 42 points. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly calculates the number of points he scored per round as 84 / 2 = 42 points. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct."
+                    ],
+                    [
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly calculates the number of points he scored per round as 84 / 2 = 42 points. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly calculates the number of points he scored per round as 84 / 2 = 42 points. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game. It also correctly calculates the number of points he scored per round as 84 / 2 = 42 points. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "The given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game and gained the same number of points each round. It then calculates the number of points Luke scored per round as 84 / 2 = 42 points, which is accurate. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "The given answer correctly states that Luke scored 84 points after playing 2 rounds of a trivia game and gained the same number of points each round. Then, it correctly calculates the number of points Luke scored per round as 84 / 2 = 42 points per round. Finally, the answer represents these calculations in the form of an equation (84 / 2), which is accurate.\n\nEvaluation result: the given answer is correct."
+                    ]
+                ],
+                "values": [
+                    100.0,
+                    100.0,
+                    100.0,
+                    100.0,
+                    100.0
+                ],
+                "select_new_ys": [
+                    "Luke scored 84 points after playing 2 rounds of a trivia game. Since he gained the same number of points each round, we can divide the total points by the number of rounds to find the points per round. The equation is 84 / 2. The answer is (84 / 2)."
+                ]
+            }
+        ],
+        "idx": 0,
+        "ys": [
+            "Luke scored 84 points after playing 2 rounds of a trivia game. Since he gained the same number of points each round, we can divide the total points by the number of rounds to find the points per round. The equation is 84 / 2. The answer is (84 / 2)."
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2352,
+            "prompt_tokens": 7226,
+            "cost": 0.015543
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "\"input\":\"Faye was placing her pencils and crayons into 7 rows with 36 pencils and 30 crayons in each row.\\nHow many crayons does she have?\"\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Faye has 30 crayons in each row, and she has 7 rows. So she has a total of 30 * 7 = 210 crayons. The answer is (30 * 7).",
+                    "Faye has 7 rows with 30 crayons in each row. So she has a total of 7 * 30 = 210 crayons. The answer is (7 * 30).",
+                    "Faye has 7 rows with 30 crayons in each row. So she has a total of 7 * 30 = 210 crayons. The answer is (7 * 30).",
+                    "Faye is placing her pencils and crayons into 7 rows. In each row, there are 36 pencils and 30 crayons. So, in total, she has 7 * 30 = 210 crayons. The answer is (7 * 30).",
+                    "Faye placed her pencils and crayons into 7 rows. In each row, there are 30 crayons. So, she has a total of 7 * 30 = 210 crayons. The answer is (7 * 30)."
+                ],
+                "value_outputs_list": [
+                    [
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 30 crayons in each row and 7 rows. Then, it calculates the total number of crayons as 30 * 7 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (30 * 7), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 30 crayons in each row and she has 7 rows. It calculates the total number of crayons as 30 * 7 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (30 * 7), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 30 crayons in each row and 7 rows. It then calculates the total number of crayons as 30 * 7 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (30 * 7), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 30 crayons in each row and 7 rows. Then, it calculates the total number of crayons as 30 * 7 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (30 * 7), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 30 crayons in each row and 7 rows. It then calculates the total number of crayons as 30 * 7 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (30 * 7), which is correct.\n\nEvaluation result: the given answer is correct."
+                    ],
+                    [
+                        "Evaluation:\n\nThe given answer incorrectly states that Faye has 7 rows with 30 crayons in each row. The question states that there are 36 pencils and 30 crayons in each row. Therefore, Faye actually has a total of 7 * 30 = 210 pencils, not crayons. The correct calculation for the number of crayons Faye has is 7 * 30 = 210, not 7 * 36 as stated.\n\nEvaluation result: the given answer is wrong.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 7 rows with 30 crayons in each row. It then calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 7 rows with 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 7 rows with 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 7 rows with 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct."
+                    ],
+                    [
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 7 rows with 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is correct. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 7 rows with 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "The given answer correctly states that Faye has 7 rows with 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210 crayons, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 7 rows with 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye has 7 rows with 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct."
+                    ],
+                    [
+                        "Evaluation:\n\nThe given answer correctly states that Faye is placing her pencils and crayons into 7 rows, with 36 pencils and 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye is placing her pencils and crayons into 7 rows, with 36 pencils and 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is correct. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is accurate.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye is placing her pencils and crayons into 7 rows, and in each row, there are 36 pencils and 30 crayons. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye is placing her pencils and crayons into 7 rows. It also correctly states that each row has 36 pencils and 30 crayons. However, it incorrectly calculates the total number of crayons as 7 * 30 = 210. The correct calculation should be 7 * 30 = 210 crayons.\n\nEvaluation result: the given answer is wrong.",
+                        "The given answer correctly states that Faye is placing her pencils and crayons into 7 rows, with 36 pencils and 30 crayons in each row. It then calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct."
+                    ],
+                    [
+                        "Evaluation:\n\nThe given answer correctly states that Faye placed her pencils and crayons into 7 rows and that each row has 30 crayons. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye placed her pencils and crayons into 7 rows and that there are 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye placed her pencils and crayons into 7 rows, with 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye placed her pencils and crayons into 7 rows, with 30 crayons in each row. Then, it calculates the total number of crayons as 7 * 30 = 210, which is accurate. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct.",
+                        "Evaluation:\n\nThe given answer correctly states that Faye placed her pencils and crayons into 7 rows and that there are 30 crayons in each row. Then, it accurately calculates the total number of crayons as 7 * 30 = 210. Finally, the answer represents these calculations in the form of an equation (7 * 30), which is correct.\n\nEvaluation result: the given answer is correct."
+                    ]
+                ],
+                "values": [
+                    100.0,
+                    80.001,
+                    100.0,
+                    80.001,
+                    100.0
+                ],
+                "select_new_ys": [
+                    "Faye has 30 crayons in each row, and she has 7 rows. So she has a total of 30 * 7 = 210 crayons. The answer is (30 * 7)."
+                ]
+            }
+        ],
+        "idx": 1,
+        "ys": [
+            "Faye has 30 crayons in each row, and she has 7 rows. So she has a total of 30 * 7 = 210 crayons. The answer is (30 * 7)."
+        ],
+        "usage_so_far": {
+            "completion_tokens": 4672,
+            "prompt_tokens": 14401,
+            "cost": 0.0309455
+        }
+    }
+]
