@@ -21,8 +21,8 @@ conda install -y pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatool
   - `task_prefix_tree1`: Training the CoT reasoning capability
   - `task_prefix_tree2`: Train the self-evaluation capability
 - `--label_type`:
-  - `--label_type gt`: Use GT label for training
-  - `--label_type llm`: Use LLM predicted label for training
+  - `--label_type gt`: Use human-annotated labels for training
+  - `--label_type llm`: Use LLM-generated pseudo-labels for training
 - `--alpha`: Task weight for multi-task training. Loss = alpha * label_prediction_loss + (1 - alpha) * rationale_generation_loss. Suggested value: `0.5`
 - `--batch_size`: Batch size
 - `--max_input_length`: Maximum input length
