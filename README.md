@@ -1,3 +1,5 @@
+
+
 # Mind-s-Mirror-Distilling-LLM
 Code for [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://aclanthology.org/2024.naacl-long.376), NAACL 2024
 
@@ -23,6 +25,7 @@ conda install -y pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatool
 - `--label_type`:
   - `--label_type gt`: Use human-annotated labels for training
   - `--label_type llm`: Use LLM-generated pseudo-labels for training
+- `--llm`: The LLM model used to generate pseudo-labels (e.g., `gpt-3.5-turbo`)
 - `--alpha`: Task weight for multi-task training. Loss = alpha * label_prediction_loss + (1 - alpha) * rationale_generation_loss. Suggested value: `0.5`
 - `--batch_size`: Batch size
 - `--max_input_length`: Maximum input length
